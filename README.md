@@ -4,7 +4,7 @@ based on tensorrt_demos by jkjung-avt
 
 added some modification  
 
-1> publish bbox data (conf, pixel xy of bbox, classnum ) 
+1> publish bbox data (conf, pixel xy of bbox, classnum ) to ROS topic
 
 2> rotate camera for jetracer kit 
 
