@@ -9,3 +9,5 @@ added some modification
 2> rotate camera for jetracer kit 
 
 3> resize image to ratio of 640/480 
+
+4> added coordinate transform function and publish nearest in-lane vehicle's distance to ROS topic
