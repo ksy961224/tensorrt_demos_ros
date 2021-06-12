@@ -1,0 +1,11 @@
+<package format="2">
+  <name>tensorrt_demos_0</name>
+  <version>0.0.0</version>
+  <description>subscribe image topic / inference / publish result </description>
+  <author email="jsss1224@ajou.ac.kr">KSY</author>
+  <maintainer email="jsss1224@ajou.ac.kr">KSY</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  
+
+</package>
